@@ -6,3 +6,5 @@ as.Date("2018-11-22") - Sys.Date()
 
 # devtools::install_github("hadley/emo")
 emo::ji("turkey")
+
+emo::ji("christmas")
