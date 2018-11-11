@@ -8,3 +8,7 @@ as.Date("2018-11-22") - Sys.Date()
 emo::ji("turkey")
 
 emo::ji("christmas")
+
+emo::ji("winter")
+
+emo::ji("snow")
