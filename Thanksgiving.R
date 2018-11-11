@@ -10,3 +10,5 @@ emo::ji("turkey")
 emo::ji("christmas")
 
 emo::ji("winter")
+
+emo::ji("snow")
