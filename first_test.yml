@@ -1,0 +1,22 @@
+x:
+    class: character
+    sort
+y:
+    class: factor
+    levels:
+        - "a"
+        - "b"
+        - "c"
+    sort
+z:
+    class: integer
+abc:
+    class: numeric
+def:
+    class: logical
+timestamp:
+    class: POSIXct
+    origin: 1970-01-01 00:00:00
+    timezone: UTC
+
+optimized
