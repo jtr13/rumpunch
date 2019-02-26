@@ -1,0 +1,10 @@
+---
+title: "mathjax"
+author: "Joyce Robbins"
+date: "2/26/2019"
+output: github_document
+---
+
+$a^2 + b^2 = c^2$
+
+$$a^2 + b^2 = c^2$$
