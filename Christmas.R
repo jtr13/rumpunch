@@ -1,6 +1,6 @@
-# Number of days until Christmas 2018
+# Number of days until Christmas 2019
 #
-as.Date("2018-12-25") - Sys.Date()
+as.Date("2019-12-25") - Sys.Date()
 
 emo::ji("tree")
 
